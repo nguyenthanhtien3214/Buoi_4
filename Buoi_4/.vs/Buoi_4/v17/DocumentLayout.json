@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B652C51-786F-47CE-8225-8CC46E78247F}|Buoi_4\\Buoi_4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\Buoi_4\\Bai 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B652C51-786F-47CE-8225-8CC46E78247F}|Buoi_4\\Buoi_4.vcxproj|solutionrelative:Buoi_4\\Bai 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B652C51-786F-47CE-8225-8CC46E78247F}|Buoi_4\\Buoi_4.vcxproj|E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\Buoi_4\\Bai 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B652C51-786F-47CE-8225-8CC46E78247F}|Buoi_4\\Buoi_4.vcxproj|solutionrelative:Buoi_4\\Bai 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai 2.cpp",
+              "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\Buoi_4\\Bai 2.cpp",
+              "RelativeDocumentMoniker": "Buoi_4\\Bai 2.cpp",
+              "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\Buoi_4\\Bai 2.cpp",
+              "RelativeToolTip": "Buoi_4\\Bai 2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T18:03:22.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai 1.cpp",
               "DocumentMoniker": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\Buoi_4\\Bai 1.cpp",
               "RelativeDocumentMoniker": "Buoi_4\\Bai 1.cpp",
               "ToolTip": "E:\\HUIT\\HK3(2024-2025)\\TH KTLT\\Buoi_4\\Buoi_4\\Buoi_4\\Bai 1.cpp",
               "RelativeToolTip": "Buoi_4\\Bai 1.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-05T17:39:51.736Z",
               "EditorCaption": ""
