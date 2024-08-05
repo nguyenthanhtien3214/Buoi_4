@@ -18,7 +18,7 @@ int sum_iterative(int n) {
     return sum;
 }//
 
-// Hàm tính S(n) = 5 + √5 + √(5 + √5 + ...) có n dấu căn (Đệ quy)
+/// Hàm tính S(n) = 5 + √5 + √(5 + √5 + ...) có n dấu căn (Đệ quy)
 double nested_sqrt_recursive(int n) {
     if (n == 0) {
         return 5;
@@ -33,7 +33,7 @@ double fraction_sum_iterative(int n) {
         sum += (double)i / (i + 1);
     }
     return sum;
-}
+}//
 
 // Hàm tính S(n) = 1 + 1/3 + 1/5 + ... + 1/(2n + 1) (Khử đệ quy)
 double odd_fraction_sum_iterative(int n) {
