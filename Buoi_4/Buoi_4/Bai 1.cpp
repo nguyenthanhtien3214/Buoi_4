@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <math.h>
 
-// Hàm tính S(n) = 1 + 2 + 3 + ... + n (Đệ quy)
+/// Hàm tính S(n) = 1 + 2 + 3 + ... + n (Đệ quy)
 int sum_recursive(int n) {
     if (n == 1) {
         return 1;
@@ -16,7 +16,7 @@ int sum_iterative(int n) {
         sum += i;
     }
     return sum;
-}
+}//
 
 // Hàm tính S(n) = 5 + √5 + √(5 + √5 + ...) có n dấu căn (Đệ quy)
 double nested_sqrt_recursive(int n) {
