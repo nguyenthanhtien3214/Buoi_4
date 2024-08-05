@@ -35,7 +35,7 @@ double fraction_sum_iterative(int n) {
     return sum;
 }//
 
-// Hàm tính S(n) = 1 + 1/3 + 1/5 + ... + 1/(2n + 1) (Khử đệ quy)
+/// Hàm tính S(n) = 1 + 1/3 + 1/5 + ... + 1/(2n + 1) (Khử đệ quy)
 double odd_fraction_sum_iterative(int n) {
     double sum = 0.0;
     for (int i = 0; i <= n; i++) {
@@ -51,7 +51,7 @@ int product_sum_iterative(int n) {
         sum += i * (i + 1);
     }
     return sum;
-}
+}//
 
 // Hàm tính S(n) = 1*2!/(2+√3) + 2*3!/(3+√4) + ... + n(n+1)!/(n+1+√(n+2)) (Khử đệ quy)
 double complex_sum_iterative(int n) {
